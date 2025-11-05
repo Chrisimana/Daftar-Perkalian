@@ -178,20 +178,6 @@ Aplikasi akan langsung membuka window GUI dengan tampilan welcome message.
 
 ## 📚 Dokumentasi
 
-### Architecture Overview
-
-```
-Program Perkalian Super
-├── Presentation Layer (GUI)
-│   └── Tkinter Interface
-├── Business Logic Layer 
-│   └── Perhitungan & Validasi
-├── Data Access Layer 
-│   └── SQLite Database Management
-└── History Management Layer
-    └── Data Retrieval & Display
-```
-
 ### Workflow Diagram
 
 ```mermaid
